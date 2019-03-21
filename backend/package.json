@@ -1,0 +1,19 @@
+{
+  "name": "w2d1-node-api-demo",
+  "version": "1.0.0",
+  "description": "Live-coded Dark Sky API demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Cameron Gorrie <sastraxi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^6.1.0",
+    "eslint": "^5.8.0",
+    "express": "^4.16.4",
+    "knex": "^0.16.3",
+    "request": "^2.88.0"
+  }
+}
